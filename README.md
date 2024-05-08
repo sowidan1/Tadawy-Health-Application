@@ -51,3 +51,11 @@ This assumes that the database connection is correctly configured in your .env f
 ```bash
 php artisan serve
 ```
+
+## Contact
+
+For inquiries, contact us at [osamasowidan@gmail.com](mailto:osamasowidan1@gmail.com).
+
+---
+
+**Thank you for using Tadawy Health Application!**
