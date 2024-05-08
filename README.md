@@ -54,7 +54,7 @@ php artisan serve
 
 ## Contact
 
-For inquiries, contact us at [osamasowidan@gmail.com](mailto:osamasowidan1@gmail.com).
+For inquiries, contact us at [osamasowidan1@gmail.com](mailto:osamasowidan1@gmail.com).
 
 ---
 
